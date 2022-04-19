@@ -1,3 +1,6 @@
+Olá! Esse repo aqui foi criado durante a mentoria #4 do Bootcamp da Impulso na DIO que eu participei.
+Ministrado pela Bruna Mendes, onde aprendi muito sobre os Hooks do React!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
